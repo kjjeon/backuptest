@@ -1,0 +1,7 @@
+#!/bin/sh
+CFLAGS=-DA
+CFLAGS=$CFLAGS-DJJJJ
+export CFLAGS
+
+
+echo $CFLAGS
