@@ -290,3 +290,6 @@ nugget#cuapp
 
 # Wiki
  * [Wiki](https://github.com/kjjeon/backuptest/wiki)
+ 
+#emoji
+https://www.webpagefx.com/tools/emoji-cheat-sheet/
