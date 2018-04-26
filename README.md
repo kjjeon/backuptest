@@ -289,4 +289,4 @@ nugget#cuapp
 ```
 
 # Wiki
- * [Wiki](https://github.com/kjjeon/backuptest/wiki/Home/_edit)
+ * [Wiki](https://github.com/kjjeon/backuptest/wiki)
